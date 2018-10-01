@@ -1,6 +1,6 @@
-#Genetic Algorithm
+# Genetic Algorithm
 
-###Description
+### Description
 
 --- 
 This algorithm is what is called a *Genetic Algorithm*, it's purpose is to *"guess"* which number we have 
@@ -13,7 +13,7 @@ It does so in several steps:
 4. Perform a crossover and calculate gene mutation for every new individual
 5. Repeat X number of times, or until the result has been reached
 
-###Implementation
+### Implementation
 
 The implementation consists of 2 classes and 2 interfaces:  
 1. The `Main` class, which is responsible for giving the target, as well as declaring the lambda methods for both
@@ -36,7 +36,7 @@ having `numberOfGenes` genes (columns).
 
 
 
-###Usage
+### Usage
 
 ___
 
