@@ -3,7 +3,7 @@
 ### Description
 
 --- 
-This algorithm is what is called a *Genetic Algorithm*, it's purpose is to *"guess"* which number we have 
+This algorithm is what is called a *Genetic Algorithm*, its purpose is to *"guess"* which number we have 
 inputted via an evolutionary process based on darwinian selection.
 
 It does so in several steps:  
